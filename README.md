@@ -1,49 +1,91 @@
 # 💼 Projects Demonstration
 
-Bienvenue sur mon dépôt de démonstration de projets.  
-Ici, je partage une sélection de mes travaux réalisés durant mon parcours à Epitech, mes expériences professionnelles, mes projets personnels et mes contributions pédagogiques en tant qu’AER.
+Bienvenue sur mon dépôt GitHub dédié à la **démonstration de mes projets, présentations, supports pédagogiques, documents officiels et certifications**.
 
-Chaque dossier correspond à un projet concret, documenté et illustré pour mettre en avant mes compétences en développement, en gestion de projet et en pédagogie.
-
----
-
-## 📂 Contenu du dépôt
-
-### 🚀 `flutter-app-vybees`
-> Application mobile de rencontre développée en Flutter durant mon stage chez Vybees.  
-Conception from scratch, gestion de projet, intégration Firebase et encadrement d’un développeur.
-
-### 🍽️ `web-app-restaurant`
-> Application web réalisée pour un restaurant local.  
-Site vitrine + gestion de réservations, développement complet avec responsive design.
-
-### 🧠 `pedagogical-courses`
-> Cours, tutoriels et ateliers que j’ai créés pour aider les étudiants Epitech en tant qu’AER.  
-Notions couvertes : C, Shell, web de base, Git, etc.
-
-### 🎮 `Projet de fin d'étude Talie`
-> Applications mobiles d'apprentissage quotidien de notions informatique
+Ce repo reflète l'ensemble de mon parcours à Epitech, enrichi par mes expériences en entreprise, mes initiatives personnelles et mon envie constante d'apprendre et de transmettre.  
+Chaque dossier met en avant un aspect différent de mes compétences : technique, pédagogique, organisationnelle, ou business.
 
 ---
 
-## 🛠️ Compétences mises en œuvre
+## 🧭 Sommaire
 
-- Développement frontend (Flutter, Angular, HTML/CSS, JS)
-- Backend & APIs (Node.js, Firebase)
-- Pédagogie & vulgarisation technique
-- Gestion de projet (organisation, encadrement, deadlines)
-- UX/UI, conception produit et prototypage
-- Git / GitHub, workflows de versionning
+- [📱 Flutter App – Vybees](./Flutter-app-vybees)
+- [🎓 Talie – Projet de fin d’études](./End-studies-project)
+- [🍽️ Web App – Gestion de restaurant](./Web-app-restaurant)
+- [🧑‍🏫 Supports pédagogiques – AER](./Pedagogical-courses-AER)
+- [🎤 Présentations de projets](./Project-presentations)
+- [📂 Documents officiels](./Official-documents)
+- [📜 Certifications & formations complémentaires](./Certifications)
+
+---
+
+## 🔍 Détails des dossiers
+
+### 📱 [Flutter App – Vybees](./Flutter-app-vybees)
+Application mobile de rencontre développée en Flutter lors de mon stage chez Vybees.  
+Projet complet : conception, développement, UI/UX, Firebase, encadrement d’un développeur junior.
+
+---
+
+### 🎓 [Talie – Projet de fin d’études](./End-studies-project)
+Application mobile éducative avec logique IA.  
+Chef de projet : architecture, UX, gestion d’équipe, développement Flutter, tests utilisateurs.
+
+---
+
+### 🍽️ [Web App – Gestion de restaurant](./Web-app-restaurant)
+Application web réalisée pour un restaurant local.  
+Gestion des horaires, dashboard, profils utilisateurs, responsive design.
+
+---
+
+### 🧑‍🏫 [Supports pédagogiques – AER](./Pedagogical-courses-AER)
+Cours et ateliers créés pour aider les étudiants à Epitech (C, Git, tests unitaires...).  
+Initiative personnelle dans mon rôle d’assistant pédagogique (AER).
+
+---
+
+### 🎤 [Présentations de projets](./Project-presentations)
+Mes supports de présentation pour :
+- Le projet **R-Type** (🎖 meilleure présentation de promo)
+- Le projet Zappy (fin de 2e année)
+- Mon oral de stage chez Vybees
+
+---
+
+### 📂 [Documents officiels](./Official-documents)
+Documents structurants comme :
+- Le **cahier des charges** du projet Talie  
+- Le support d’**oral de stage Vybees** (version PPT)
+
+---
+
+### 📜 [Certifications & formations complémentaires](./Certifications)
+Certifications pro Google / HubSpot en marketing digital, analytics, social media...  
+Formations internes EPITECH sur l’agilité, le marketing et le management produit.
+
+---
+
+## 🧠 Compétences démontrées
+
+- Développement mobile : Flutter, Firebase
+- Développement web : JS, HTML/CSS, architecture frontend
+- Gestion de projet : roadmap, encadrement, coordination d’équipe
+- UX/UI : prototypage, accessibilité, design centré utilisateur
+- Communication : présentations orales, vulgarisation, pédagogie
+- Outils : Git/GitHub, Figma, Firebase, CI/CD
+- Soft skills : autonomie, esprit d’équipe, rigueur, adaptabilité
 
 ---
 
 ## 📫 Me contacter
 
-📍 Étudiant à Epitech (2021–2026) – actuellement en échange à Laurea (Finlande)  
-🔗 [Mon LinkedIn](https://www.linkedin.com/in/bastien-gerard-epitech/)
+👨‍🎓 Étudiant à Epitech – En échange à **Laurea University of Applied Sciences** (Finlande)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bastien-gerard-epitech/)  
 📧 bastien.gerard@epitech.eu
 
 ---
 
-Merci pour votre visite ! 👋  
-N’hésitez pas à explorer les dossiers pour en savoir plus sur chaque projet.
+Merci pour votre visite ! 🙌  
+N’hésitez pas à parcourir les dossiers et à me contacter pour en discuter.
+
